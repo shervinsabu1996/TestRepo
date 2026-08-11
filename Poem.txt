@@ -1,0 +1,19 @@
+Fresh Clone
+
+A morning pull, a clean checkout,
+the working tree with nothing out.
+No merge to fight, no stash to keep—
+just open ground where ideas sleep.
+
+We plant a branch, we name it well,
+and watch it grow, and watch it swell
+with edits small and edits bold,
+a diff that tells what wasn't told.
+
+Then comes the push, the quiet request,
+a pull request waiting for its test.
+And somewhere far, a reviewer's eye
+will read the change, and wonder why—
+
+then smile, approve, and merge it in,
+another story lets begin.
